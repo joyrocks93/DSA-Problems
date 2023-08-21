@@ -1,6 +1,6 @@
 # The LeetCode Solutions 
 
-| # | Title | Solution | Difficulty | Check |
+| # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | No. | Problems | Difficulty | Source Code | Solution | Check |
 |---- |----------|------------|-------------|----------|
