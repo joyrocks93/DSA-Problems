@@ -123,7 +123,3 @@
 
 -------------------
 
-[我的Leetcode的解题](http://www.longluo.me/blog/2020/12/09/Leetcode-Solutions/)
-[《剑指Offer》刷题记录](http://www.longluo.me/blog/2020/12/20/Coding-Interviews/)
-
-Welcome to [My Website](http://www.longluo.me)
