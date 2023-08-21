@@ -1,10 +1,10 @@
 # The LeetCode Solutions 
 
-| # | Title | Solution | Difficulty |
+| # | Title | Solution | Difficulty |  Check |
 |---| ----- | -------- | ---------- |
 | No. | Problems | Difficulty | Source Code | Solution | Check |
 |---- |----------|------------|-------------|----------|
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem1_twoSum.java) | [2种方法：暴力 和 HashMap](http://www.longluo.me/blog/2019/03/25/Leetcode-two-sum/) |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem1_twoSum.java) | 
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |Medium| [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem2_addTwoNumbers.java) | [2种方法：模拟 和 递归](http://www.longluo.me/blog/2019/03/26/Leetcode-add-two-numbers/) |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem3_longestSubstringWithoutRepeatingCharacters.java) |  |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem4_findMedianSortedArrays.java) | [4种方法：合并数组，暴力法，二分搜索，划分数组](http://www.longluo.me/blog/2021/02/17/Leetcode-median-of-two-sorted-arrays/) |
