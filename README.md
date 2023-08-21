@@ -1,8 +1,8 @@
 # The LeetCode Solutions 
 
-| # | Title | Solution | Difficulty | -- | Check |
-|---| ----- | -------- | ---------- | - | ----- |
-| No. | Problems | Difficulty | Source Code | Solution | Check |
+| # | Title | Solution | Difficulty | Check |
+|---| ----- | -------- | ---------- | ----- |
+| No. | Problems | Difficulty | Source Code | Check |
 |---- |----------|------------|-------------|----------|
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Java](https://github.com/longluo/leetcode/blob/master/Java/src/com/longluo/top100/Problem1_twoSum.java) | 
 
